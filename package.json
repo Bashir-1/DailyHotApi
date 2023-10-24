@@ -9,7 +9,7 @@
     "start": "node index.js",
     "dev": "npx nodemon index.js",
     "prd": "pm2 start index.js",
-    "build": "node index.js"
+    "build": "node"
   },
   "author": "imsyy",
   "license": "MIT",
